@@ -5,7 +5,7 @@ Read My articles on medium
 ![Meduim](https://user-images.githubusercontent.com/113628692/221084312-cc2ce83c-f8d3-460d-b6a4-a833c08ca146.png)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shell-thon&theme=dark)
-* **Shell-Thon** - [Visit site](https://Shell-thon.github.io/Shell-thon)
+* **Shell-Thon** - [Visit site](https://shell-thon.github.io/Shell-thon/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shell.terminal) 
 
