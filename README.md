@@ -2,7 +2,7 @@
 
 
 Read My articles on medium
-![Meduim](https://user-images.githubusercontent.com/113628692/221084312-cc2ce83c-f8d3-460d-b6a4-a833c08ca146.png)
+![Meduim](![image](https://user-images.githubusercontent.com/113628692/232975106-71420780-18d8-4ed0-b37e-3a3960c04faf.png))
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shell-thon&theme=dark)
 * **Shell-Thon** - [Visit site](https://shell-thon.github.io/Shell-thon/)
