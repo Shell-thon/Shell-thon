@@ -5,7 +5,7 @@ Read My articles on medium
 ![Meduim](https://user-images.githubusercontent.com/113628692/232975106-71420780-18d8-4ed0-b37e-3a3960c04faf.png)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shell-thon&theme=dark)
-* **Shell-Thon** - [Visit site](www.shell-thon.me)
+* **Shell-Thon** - [Visit site](http://shell-thon.me)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
 
