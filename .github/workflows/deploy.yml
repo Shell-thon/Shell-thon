@@ -1,0 +1,27 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Adjust if you are using a different branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Build project (optional)
+        # Add your build commands here if needed, for example:
+        # run: npm install && npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # Adjust if your site files are in a different directory
+          destination_repo: shell-thon/shell-thon.github.io
+          user_name: Shell-thon
+          user_email: michaeltemi902@gmail.com  # Add your GitHub email
