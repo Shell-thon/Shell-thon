@@ -46,7 +46,7 @@ A collection of scripts and workflows focused on automation and deployment conce
 ---
 
 ## 🌍 Portfolio & Contact
-- **Portfolio:** https://sites.google.com/view/michaeldev0ps/home
+- **Portfolio:** https://michaeldev0ps.vercel.app/
 - **GitHub:** https://github.com/michaeldev0ps
 - **Location:** Nigeria  
 - **Availability:** Open to remote work and client projects
