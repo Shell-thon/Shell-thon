@@ -25,5 +25,5 @@ I’m a DevOps Engineer focused on automation, CI/CD pipelines, cloud infrastruc
 - Portfolio: https://github.com/shell-thon.io
 - GitHub: https://github.com/Shell-thon  
 
-**Open to DevOps Engineer roles & collaborations and **
+**Open to DevOps Engineer roles & collaborations and**
 **Passionate about building resilient systems.**
