@@ -1,29 +1,14 @@
-# Michael — DevOps Engineer 🚀
+# MichaelDevOps Portfolio
 
-I’m a DevOps Engineer focused on automation, CI/CD pipelines, cloud infrastructure, and building scalable, production-ready systems. I enjoy solving reliability problems and improving developer workflows.
+Dark-themed portfolio for MichaelDevOps (Backend & DevOps Engineer). Built with Astro and deployed as a static site.
 
-## 🛠 Tech Stack
-- Linux, Git, GitHub
-- Docker, CI/CD (GitHub Actions)
-- MongoDB, Node.js
-- Cloud & Infrastructure (learning AWS/Terraform)
-- Bash, Automation, DevOps Practices
+## Stack
+- Astro (static output)
+- HTML/CSS with minimal JS
+- Single font: Roboto
 
-## 📌 Featured Projects
-🔹 CI/CD Pipeline Automation — GitHub Actions  
-🔹 Dockerized Web App Deployment  
-🔹 Full-Stack Portfolio Platform  
-🔹 DevOps Learning Labs & Scripts  
-
-## 🎯 What I’m Working On
-- Building DevOps automation tools  
-- Improving deployment pipelines  
-- Learning cloud infrastructure & Terraform  
-
-## 📫 Let’s Connect
-- LinkedIn: https://linkedin.com/in/michaeldev0ps  
-- Portfolio: https://github.com/shell-thon.io
-- GitHub: https://github.com/Shell-thon  
-
-**Open to DevOps Engineer roles & collaborations and**
-**Passionate about building resilient systems.**
+## Commands
+- `npm install` Install dependencies
+- `npm run dev` Start dev server at `localhost:4321`
+- `npm run build` Build production site to `dist/`
+- `npm run preview` Preview the build locally

@@ -1,0 +1,53 @@
+---
+// Learn about using Astro layouts:
+// https://docs.astro.build/en/basics/layouts/
+
+import Footer from '../components/Footer.astro';
+// Component Imports
+import MainHead from '../components/MainHead.astro';
+import Nav from '../components/Nav.astro';
+
+interface Props {
+	title?: string | undefined;
+	description?: string | undefined;
+}
+
+const { title, description } = Astro.props;
+---
+
+<html lang="en" class="theme-dark">
+	<head>
+		<MainHead title={title} description={description} />
+	</head>
+	<body>
+		<div class="stack backgrounds">
+			<Nav />
+			<slot />
+			<Footer />
+		</div>
+
+		<style>
+			:root {
+				--bg-noise: url('/assets/backgrounds/noise.png');
+			}
+
+			.backgrounds {
+				min-height: 100%;
+				isolation: isolate;
+				background:
+					var(--bg-noise) top center/220px repeat,
+					radial-gradient(1200px circle at 15% 10%, rgba(34, 211, 238, 0.18), transparent 55%),
+					radial-gradient(900px circle at 85% 20%, rgba(34, 197, 94, 0.2), transparent 50%),
+					linear-gradient(180deg, #0b0f14 0%, #0e141b 55%, #0b0f14 100%);
+				background-blend-mode: overlay, screen, screen, normal;
+			}
+			@media (forced-colors: active) {
+				/* Deactivate custom backgrounds for high contrast users. */
+				.backgrounds {
+					background: none;
+					background-blend-mode: none;
+				}
+			}
+		</style>
+	</body>
+</html>
