@@ -22,7 +22,7 @@ I’m a DevOps Engineer focused on automation, CI/CD pipelines, cloud infrastruc
 
 ## 📫 Let’s Connect
 - LinkedIn: https://linkedin.com/in/michaeldev0ps  
-- Portfolio: (https://github.com/shell-thon.io)  
+- Portfolio: https://github.com/shell-thon.io
 - GitHub: https://github.com/Shell-thon  
 
 **Open to DevOps Engineer roles & collaborations.**
