@@ -25,11 +25,11 @@ I build backend tools and system-level solutions that are reliable, maintainable
 
 ### 📊 Polling Application
 A backend-focused polling system handling vote validation and result aggregation.  
-🔗 https://github.com/Shell-thon/Polling-App
+🔗 https://github.com/michaeldev0ps/Polling-App
 
 ### 🏘️ Real Estate Portfolio Platform
 A structured portfolio platform designed for scalability and future backend expansion.  
-🔗 https://github.com/Shell-thon/real-estate-portfolio
+🔗 https://github.com/michaeldev0ps/real-estate-portfolio
 
 ### ⚙️ DevOps CI/CD Tools
 A collection of scripts and workflows focused on automation and deployment concepts.  
